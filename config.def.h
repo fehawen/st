@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Roboto Mono:pixelsize=28:antialias=true:autohint=true";
-static int borderpx = 160;
+static char *font = "Roboto Mono:pixelsize=34:antialias=true:autohint=true";
+static int borderpx = 150;
 
 /*
  * What program is execed by st depends of these precedence rules:
@@ -134,8 +134,8 @@ static unsigned int cursorshape = 2;
  * Default columns and rows numbers
  */
 
-static unsigned int cols = 80;
-static unsigned int rows = 24;
+static unsigned int cols = 52;
+static unsigned int rows = 12;
 
 /*
  * Default colour and shape of the mouse cursor
