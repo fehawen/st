@@ -9,3 +9,4 @@ Patches applied:
 1. [st-scrollback-20190331-21367a0](https://st.suckless.org/patches/scrollback/st-scrollback-20190331-21367a0.diff)
 2. [st-scrollback-mouse-20191024-a2c479c](https://st.suckless.org/patches/scrollback/st-scrollback-mouse-20191024-a2c479c.diff)
 3. [st-scrollback-mouse-altscreen-20191024-a2c479c](https://st.suckless.org/patches/scrollback/st-scrollback-mouse-altscreen-20191024-a2c479c.diff)
+4. [st-ligatures-scrollback-20200428-28ad288](https://st.suckless.org/patches/ligatures/28ad288/st-ligatures-scrollback-20200428-28ad288.diff)
