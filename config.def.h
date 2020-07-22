@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrains Mono:pixelsize=34:antialias=true:autohint=true";
-static int borderpx = 150;
+static char *font = "Roboto Mono:pixelsize=35:antialias=true:autohint=true";
+static int borderpx = 140;
 
 /*
  * What program is execed by st depends of these precedence rules:
